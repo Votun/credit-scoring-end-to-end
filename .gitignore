@@ -1,0 +1,22 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Logs
+*.log
+
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+#dependencies
+.venv/
+
+#data
+data/
+notebooks/submits/
